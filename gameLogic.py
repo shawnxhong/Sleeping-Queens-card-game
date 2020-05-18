@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 """
-Assignment 2 - Sleeping Coders
-CSSE 7030
-Semester 2, 2019
-"""
-
 import random
 
 __author__ = "shawnxhong"
-
-# Write your classes here
-
 
 class Deck(object):
     """
