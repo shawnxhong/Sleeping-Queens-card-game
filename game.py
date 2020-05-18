@@ -1,9 +1,3 @@
-"""
-CSSE1001 Semester 2, 2019
-Sleeping Coders GUI Support Code
-Version 1.0.1
-"""
-
 import tkinter as tk
 from tkinter import messagebox
 
